@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "32ccc00e-1712-4bb3-9b4c-70cb72eb034a": {
+      "ProjectGuid": "32ccc00e-1712-4bb3-9b4c-70cb72eb034a",
+      "DisplayName": "MapsGettingStarted",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
