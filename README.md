@@ -94,5 +94,5 @@ Today, we provide 1700+ components and frameworks for web ([Blazor](https://www.
 <hr style="height:0.3px;border:none;color:lightgrey;background-color:lightgrey;" />
 
 <p align="center">
-  <a href="mailto:sales@syncfusion.com?Subject=Syncfusion PDF Library - Github" target="_top">sales@syncfusion.com</a> | <a href="https://www.syncfusion.com?utm_source=github&utm_medium=listing&utm_campaign=fileformats-pdf-github-samples">www.syncfusion.com</a> | 1-888-9 DOTNET <br>
+  <a href="mailto:sales@syncfusion.com?Subject=Syncfusion WinForms Map - Github" target="_top">sales@syncfusion.com</a> | <a href="https://www.syncfusion.com?utm_source=github&utm_medium=listing&utm_campaign=winforms-maps-github-samples">www.syncfusion.com</a> | 1-888-9 DOTNET <br>
 </p>
