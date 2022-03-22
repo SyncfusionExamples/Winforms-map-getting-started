@@ -1,5 +1,5 @@
 # Winforms-map-getting-started
-The [WinForms Map control](https://www.syncfusion.com/winforms-ui-controls/map?utm_source=github&utm_medium=listing&utm_campaign=winforms-diagram-github-samples) is a powerful data visualization component that displays statistical information for a geographical area. It has highly interactive and customizable features such as zooming, panning, selecting, markers, bubbles, and color mapping. Using the Map control, you can render various types of maps, such as sales, political-boundary, weather, electoral, and route.
+The [WinForms Map control](https://www.syncfusion.com/winforms-ui-controls/map?utm_source=github&utm_medium=listing&utm_campaign=winforms-maps-github-samples) is a powerful data visualization component that displays statistical information for a geographical area. It has highly interactive and customizable features such as zooming, panning, selecting, markers, bubbles, and color mapping. Using the Map control, you can render various types of maps, such as sales, political-boundary, weather, electoral, and route.
 
 ## Features and benefits
 
@@ -32,7 +32,7 @@ Equal [color mapping](https://help.syncfusion.com/windowsforms/map/customizing-m
 Apply colors to shapes by comparing their values with specified numeric ranges. For example, apply colors to states based on their population density.
 
 ### Map annotations
-[Map annotations](https://help.syncfusion.com/windowsforms/map/annotations?utm_source=github&utm_medium=listing&utm_campaign=winforms-diagram-github-samples) allow you to denote a place with symbols, like pins, or display a message at specific coordinates on a map.
+[Map annotations](https://help.syncfusion.com/windowsforms/map/annotations?utm_source=github&utm_medium=listing&utm_campaign=winforms-maps-github-samples) allow you to denote a place with symbols, like pins, or display a message at specific coordinates on a map.
 
 ## Annotation types
 You can draw shapes like circles, diamonds, rectangles, and squares to highlight a place. 
@@ -82,7 +82,7 @@ Tooltips display a pop-up with additional information about shapes, markers, and
 
 ## About Syncfusion WinForms UI Controls
 
-Syncfusion's [WinForms UI controls](https://www.syncfusion.com/winforms-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=winforms-maps-github-samples) library is the only suite that you will ever need to build an application since it contains over 100 high-performance, lightweight, modular, and responsive UI Components in a single package. In addition to Diagram, we provide popular WinForms Controls such as [DataGrid](https://www.syncfusion.com/winforms-ui-controls/datagrid?utm_source=github&utm_medium=listing&utm_campaign=winforms-maps-github-samples), [Charts](https://www.syncfusion.com/winForms-ui-controls/chart?utm_source=github&utm_medium=listing&utm_campaign=winforms-maps-github-samples) [Scheduler](https://www.syncfusion.com/winforms-ui-controls/scheduler?utm_source=github&utm_medium=listing&utm_campaign=winforms-maps-github-samples),and [Syntax editor](https://www.syncfusion.com/winforms-ui-controls/syntax-editor?utm_source=github&utm_medium=listing&utm_campaign=winforms-maps-github-samples)
+Syncfusion's [WinForms UI controls](https://www.syncfusion.com/winforms-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=winforms-maps-github-samples) library is the only suite that you will ever need to build an application since it contains over 100 high-performance, lightweight, modular, and responsive UI Components in a single package. In addition to Maps, we provide popular WinForms Controls such as [DataGrid](https://www.syncfusion.com/winforms-ui-controls/datagrid?utm_source=github&utm_medium=listing&utm_campaign=winforms-maps-github-samples), [Charts](https://www.syncfusion.com/winForms-ui-controls/chart?utm_source=github&utm_medium=listing&utm_campaign=winforms-maps-github-samples) [Scheduler](https://www.syncfusion.com/winforms-ui-controls/scheduler?utm_source=github&utm_medium=listing&utm_campaign=winforms-maps-github-samples),and [Syntax editor](https://www.syncfusion.com/winforms-ui-controls/syntax-editor?utm_source=github&utm_medium=listing&utm_campaign=winforms-maps-github-samples)
 
 ## About Syncfusion
 Founded in 2001 and headquartered in Research Triangle Park, N.C., Syncfusion has more than 27,000 customers and more than 1 million users, including large financial institutions, Fortune 500 companies, and global IT consultancies. 
