@@ -23,7 +23,7 @@ Load multiple shape files in a single map view. For example, add a sublayer over
 Easily annotate WinForms Map shapes with labels to improve the readability of a particular shape's name. Customize the look and feel of default labels using font style, size, and color properties.
 
 ### Heat map
-Produce a heat map by [customizing shape colors](https://help.syncfusion.com/windowsforms/map/map-shape-customization?utm_source=github&utm_medium=listing&utm_campaign=winforms-maps-github-samples)) based on the underlying shape value.
+Produce a heat map by [customizing shape colors](https://help.syncfusion.com/windowsforms/map/map-shape-customization?utm_source=github&utm_medium=listing&utm_campaign=winforms-maps-github-samples) based on the underlying shape value.
 
 ## Equal color mapping
 Equal [color mapping](https://help.syncfusion.com/windowsforms/map/customizing-map-appearance?utm_source=github&utm_medium=listing&utm_campaign=winforms-maps-github-samples) differentiates a shape's fill color based on its underlying value and color. For example, apply colors to states based on their winning political candidates.
