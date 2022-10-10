@@ -1,6 +1,6 @@
 # WinForms maps getting started
 
-This repository contains sample for how to get started with the [Syncfusion WinForms Maps](https://help.syncfusion.com/windowsforms/map/getting-started) control. WinForms Maps is a graphical representation of geographical data. This is used to represent the statistical data of a particular geographical area on the earth. Using pan and zoom features, maps can be navigated.
+This repository contains sample to getting started with the [Syncfusion WinForms Maps](https://help.syncfusion.com/windowsforms/map/getting-started) control. WinForms Maps is a graphical representation of geographical data. This is used to represent the statistical data of a particular geographical area on the earth. Using pan and zoom features, maps can be navigated.
 
 ## Syncfusion controls
 
@@ -16,7 +16,7 @@ Refer to the following link for more details: [System Requirements](https://help
 
 ## How to run the sample
 
-1. Clone the sample and open it in Visual Studio 2022 Preview.
+1. Clone the sample and open it in Visual Studio.
 
    *Note: If you download the sample using the "Download ZIP" option, right-click it, select Properties, and then select Unblock.*
 
