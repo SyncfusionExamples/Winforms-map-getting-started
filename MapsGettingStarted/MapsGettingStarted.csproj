@@ -33,18 +33,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Syncfusion.Licensing, Version=19.4460.0.48, Culture=neutral, PublicKeyToken=632609b4d040f6b4, processorArchitecture=MSIL">
-      <HintPath>packages\Syncfusion.Licensing.19.4.0.48\lib\net46\Syncfusion.Licensing.dll</HintPath>
-    </Reference>
-    <Reference Include="Syncfusion.Maps.Windows, Version=19.4460.0.48, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL">
-      <HintPath>packages\Syncfusion.Maps.Windows.19.4.0.48\lib\net46\Syncfusion.Maps.Windows.dll</HintPath>
-    </Reference>
-    <Reference Include="Syncfusion.Shared.Base, Version=19.4460.0.48, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL">
-      <HintPath>packages\Syncfusion.Shared.Base.19.4.0.48\lib\net46\Syncfusion.Shared.Base.dll</HintPath>
-    </Reference>
-    <Reference Include="Syncfusion.Shared.Windows, Version=19.4460.0.48, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL">
-      <HintPath>packages\Syncfusion.Shared.Windows.19.4.0.48\lib\net46\Syncfusion.Shared.Windows.dll</HintPath>
-    </Reference>
+    <PackageReference Include="Syncfusion.Licensing" Version="*" />
+    <PackageReference Include="Syncfusion.Maps.Windows" Version="*" />
+    <PackageReference Include="Syncfusion.Shared.Base" Version="*" />
+    <PackageReference Include="Syncfusion.Shared.Windows" Version="*" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
